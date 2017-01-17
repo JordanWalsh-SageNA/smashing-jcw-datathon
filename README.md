@@ -1,3 +1,6 @@
+# smashing-jcw-datathon
+datathon usage data dashboard idea app (for practice)
+
 [![Gitter chat](https://badges.gitter.im/smashing.png)](https://gitter.im/Smashing)
 
 # [Smashing](https://github.com/dashing-io/smashing/wiki)
